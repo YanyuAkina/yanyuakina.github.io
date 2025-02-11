@@ -81,7 +81,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     videoBanner: false,
     name: "YoSakuraAkina's BABlog",
     welcomeText: 'Welcome Back',
-    motto: ['和你的日常，就是奇迹', '接続確認，おかえりなさい', '何気ない日常で、ほんの少しの奇跡を見つける物語。'],
+    motto: ['接続確認，おかえりなさい', '何気ない日常で、ほんの少しの奇跡を見つける物語。'],
     social: [
       { icon: 'github', url: 'https://github.com/' },
       { icon: 'bilibili', url: 'https://www.bilibili.com/' },
@@ -100,11 +100,11 @@ export default defineConfigWithTheme<ThemeConfig>({
     ],
 
     //gitalk配置
-    clientID: 'Ov23lia9U9wFN3WMyoKK',
-    clientSecret: 'b2418ab598c188c43a247c99e728dd2735d58c3b',
-    repo: 'vitepress-theme-bluearchive',
-    owner: 'Alittfre',
-    admin: ['Alittfre'],
+    clientID: 'Ov23lizypXovkFB6SZG6',
+    clientSecret: '0e643b502a01c45b9eb96f5280de4947b7cbc0fa',
+    repo: 'yanyuakina.github.io',
+    owner: 'YanyuAkina',
+    admin: ['YanyuAkina'],
   },
   markdown: {
     theme: 'solarized-dark',
