@@ -83,9 +83,9 @@ export default defineConfigWithTheme<ThemeConfig>({
     welcomeText: 'Welcome Back',
     motto: ['接続確認，おかえりなさい', '何気ない日常で、ほんの少しの奇跡を見つける物語。'],
     social: [
-      { icon: 'github', url: 'https://github.com/' },
+      { icon: 'github', url: 'https://github.com/YanyuAkina' },
       { icon: 'bilibili', url: 'https://www.bilibili.com/' },
-      { icon: 'qq', url: 'https://im.qq.com/index/' },
+      { icon: 'qq', url: 'https://qm.qq.com/q/es6YHXzeRW' },
       { icon: 'wechat', url: 'https://weixin.qq.com/' },
     ],
 
